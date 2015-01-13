@@ -1,0 +1,67 @@
+
+body {
+	background-color: #EBFFFF;
+}
+
+h1 {
+	font-family: Didot;
+	text-shadow: 3px 2px 3px #333333;
+	font-weight: bold;
+}
+
+p {
+	font-family: Didot;
+}
+
+h2 {
+	font-family: Didot;
+}
+header {
+	background-color: #1E1829;
+	color: #CCEBFF;
+	margin: -8px;
+	margin-top: -20px;
+	margin-bottom: 10px;
+	margin-right: -10px;
+	padding: 20px;
+}
+
+#Intro {
+	padding: 20px;
+	background-color: #937DFF;
+}
+
+#navbar {
+	background-color: #1E1829;
+    width: 550px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Didot, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 2px 3px #333333;
+    border-radius: 8px;
+}
+
+#navbar ul {
+	height: auto;
+	padding: 8px 0px;
+	margin: 0px;
+}
+
+#navbar li {
+	display: inline;
+	padding: 20px;
+}
+
+#navbar a {
+	text-decoration: none;
+	color: #CCEBFF;
+	padding: 8px 8px 8px 8px;
+}
+
+#navbar a:hover {
+	color: #CCEBFF;
+	background-color: #4A11A6;
+}
+
